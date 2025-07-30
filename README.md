@@ -4,5 +4,5 @@
 *Arnav*
 <br>
 [UPES](https://www.upes.ac.in)
-[Hello](java) 
-[bye](tutorial)
+[Hello](java.code) 
+[bye](tutorial.code)
